@@ -1,0 +1,14 @@
+C:\Users\student\RUAP-Projekt\Lv1_program\bin\Debug\netcoreapp3.1\Lv1_program.exe
+C:\Users\student\RUAP-Projekt\Lv1_program\bin\Debug\netcoreapp3.1\Lv1_program.deps.json
+C:\Users\student\RUAP-Projekt\Lv1_program\bin\Debug\netcoreapp3.1\Lv1_program.runtimeconfig.json
+C:\Users\student\RUAP-Projekt\Lv1_program\bin\Debug\netcoreapp3.1\Lv1_program.runtimeconfig.dev.json
+C:\Users\student\RUAP-Projekt\Lv1_program\bin\Debug\netcoreapp3.1\Lv1_program.dll
+C:\Users\student\RUAP-Projekt\Lv1_program\bin\Debug\netcoreapp3.1\Lv1_program.pdb
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.csproj.AssemblyReference.cache
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.AssemblyInfoInputs.cache
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.AssemblyInfo.cs
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.csproj.CoreCompileInputs.cache
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.dll
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.pdb
+C:\Users\student\RUAP-Projekt\Lv1_program\obj\Debug\netcoreapp3.1\Lv1_program.genruntimeconfig.cache
